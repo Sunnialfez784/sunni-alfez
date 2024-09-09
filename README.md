@@ -1,3 +1,4 @@
+![logo](https://github.com/Sunnialfez784/sunni-alfez/blob/main/Screenshot%202024-09-09%20215916.png)
 <h1 align="center">Hi 👋, I'm sunni alfez</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
