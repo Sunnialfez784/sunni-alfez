@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sunni alfez</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHRxNmVHY3J4Skh6dU1IX3huMzlqQWtOUGpqQXxBQ3Jtc0tsX0hRMFhXaGlRcXFBNU0wbHlaMy1lMzVmN2UyYXBFalpkTVBBbDZHc0dnbC1rODhPMG5NcHdRcGs3VHk5aVlfbTE0YXBaaGdjX280eldVcUhFNHdPNWIyOUxIb3N2b1ZocHIwN0hLMXBmVUx1NU02Zw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnialfez784&label=Profile%20views&color=0e75b6&style=flat" alt="sunnialfez784" /> </p>
 
